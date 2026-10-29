@@ -2,6 +2,8 @@
 
 **Java 8 is required.**
 
+You can accomplish Java 8 installation and usage without remove your own Java version using SDKMAN like below.
+
 ### 1. Install SDKMAN
 Follow the [official installation guide](https://sdkman.io/install/).
 
